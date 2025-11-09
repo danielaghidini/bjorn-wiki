@@ -1,2 +1,2 @@
 # bjorn-wiki
-Repository for the Bjorn Skyrim follower mod, including voice lines, scripts, and development files.
+An interactive React-based wiki for the Bjorn Skyrim mod, built with Vite and Tailwind, designed to organize dialogues, quests, and mod details.
