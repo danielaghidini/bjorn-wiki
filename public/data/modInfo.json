@@ -1,7 +1,6 @@
 {
     "title": "Bjorn - Skyrim Follower Mod",
     "subtitle": "The snow falls, the wind blows, and the warrior endures.",
-    "image": "/images/bjorncover2.jpg",
     "overview": [
         "Bjorn is not just another rough mercenary of Skyrim. Despite his scars and serious gaze, there is more to this Nord than meets the eye. Born and raised in the frigid regions of Skyrim, Bjorn's life has never been easy. From the tragic loss of his family to the harsh realities of mercenary life, nothing has been able to dampen his spirit in his fight for justice — to make Skyrim a better place for all, even if it means shedding blood along the way.",
         "As long as he has your trust, Bjorn will maintain his loyalty, always ready to lend a hand. Though he has a troubled past, he still possesses a heart of gold that understands the meaning of honor.",
@@ -9,13 +8,13 @@
         "All of Bjorn's voice lines are fully voiced with AI-generated audio, crafted to match his personality, tone, and lore consistency within Skyrim's universe."
     ],
     "features": [
-        "• Standalone follower, fully voiced with over 4,500 lines of dialogue.",
-        "• Reacts dynamically to quests, the environment, and other NPCs.",
-        "• Fully lore-friendly and immersive — enhances Skyrim's world without breaking its tone.",
-        "• Can assign side quests such as hunting bandits or locating enemies with valuable items.",
-        "• Includes his personal questline focused on redemption and justice.",
-        "• Rides his faithful horse, Snow Storm, when traveling.",
-        "• Voice acting powered by advanced AI voice synthesis."
+        "Standalone follower, fully voiced with over 4,500 lines of dialogue.",
+        "Reacts dynamically to quests, the environment, and other NPCs.",
+        "Fully lore-friendly and immersive — enhances Skyrim's world without breaking its tone.",
+        "Can assign side quests such as hunting bandits or locating enemies with valuable items.",
+        "Includes his personal questline focused on redemption and justice.",
+        "Rides his faithful horse, Snow Storm, when traveling.",
+        "Voice acting powered by advanced AI voice synthesis."
     ],
     "modInfo": {
         "author": "Daniela Ghidini (danghidini)",
