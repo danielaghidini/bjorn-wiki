@@ -1,30 +1,32 @@
 [
-    {
-        "id": "bjorn_0001",
-        "context": "Greeting",
-        "text": "Ah, the road calls again. Try to keep up, traveler.",
-        "mood": "neutral",
-        "scene": "introduction"
-    },
-    {
-        "id": "bjorn_0002",
-        "context": "Combat Start",
-        "text": "Steel sings loudest when it meets its match!",
-        "mood": "aggressive",
-        "scene": "combat"
-    },
-    {
-        "id": "bjorn_0003",
-        "context": "Victory",
-        "text": "That one won't bother Skyrim again.",
-        "mood": "confident",
-        "scene": "combat"
-    },
-    {
-        "id": "bjorn_0004",
-        "context": "Companion Interaction",
-        "text": "You've got the look of someone who's seen too much snow... or too much mead.",
-        "mood": "playful",
-        "scene": "banter"
-    }
+  {
+    "id": "bjorn_0001",
+    "topic": "Hello",
+    "text": "Looking for someone to watch your back? I can do it.",
+    "location": "WhiteWatch Tower",
+    "quest": "The Mercenary Aid",
+    "emotion": "neutral",
+    "actor": "Bjorn",
+    "tags": [
+      "greeting",
+      "companion",
+      "trust"
+    ],
+    "notes": "Used when first meeting the player."
+  },
+  {
+    "id": "bjorn_0003",
+    "topic": "What's on your mind?",
+    "text": "The Forgemaster's Fingers, huh? Sounds simple enough. Just a pair of enchanted gauntlets guarded by something that probably wants to kill us. So, same as any other day, really.",
+    "location": "Any",
+    "quest": "The Forgemaster's Fingers",
+    "emotion": "Neutral",
+    "actor": "Bjorn",
+    "tags": [
+      "quest",
+      "orcs",
+      "stronghold"
+    ],
+    "notes": "The item to be accepted into the orc strongholds"
+  }
 ]
